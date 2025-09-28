@@ -4,8 +4,6 @@ from flet import *
 
 import sqlite3
 
-from pyautogui import MIDDLE
-
 connected = sqlite3.connect("School_app.db",check_same_thread=False)
 
 table = DataTable(
