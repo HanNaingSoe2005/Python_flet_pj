@@ -6,7 +6,7 @@ from database import mytable,table,calldatabase,dialog
 from action import create_table
 
 import sqlite3
-connected = sqlite3.connect("School_app.db",check_same_thread=False)
+connected = sqlite3.connect("School_app/School_app.db", check_same_thread=False)
 
 def main (page:Page):
 
