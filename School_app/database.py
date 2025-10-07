@@ -123,11 +123,11 @@ def showedit(e):
 
 def calldatabase():
     c = connected.cursor()
-    c.execute("SELECT * FROM users")
+    c.execute("SELECT*FROM users")
     users = c.fetchall()
     print(users)
 
-    # IF THERE DATA THEN PUSH DATA FROM TABLE TO WIDGET TABLE ROW
+    # IF THEIR DATA THEN PUSH DATA FROM TABLE TO WIDGET TABLE ROW
     if not users =="":
         keys = ['id','name','contact','age','email','address','gender']
         # AND PUSH DATA FORM TABLE TO CONVERT TO DICT IN PYTHON
