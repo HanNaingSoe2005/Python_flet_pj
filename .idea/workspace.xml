@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaceee4c-f267-4f04-95c3-0b418d92e2a6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Application.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/School_app/School_app.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School_app/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/School_app/database.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,14 +29,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Level_1.executor": "Run",
+    "Python.To_Do_List_App.executor": "Run",
     "Python.action.executor": "Run",
     "Python.database.executor": "Debug",
-    "Python.main.executor": "Run",
+    "Python.main.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Dell/PycharmProjects/Application",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Dell/PycharmProjects/School_app_AD",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "two.files.diff.last.used.folder": "C:/Users/Dell/PycharmProjects/School_app_AD"
   }
 }]]></component>
   <component name="SharedIndexes">
