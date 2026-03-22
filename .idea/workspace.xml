@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaceee4c-f267-4f04-95c3-0b418d92e2a6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Application.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aaceee4c-f267-4f04-95c3-0b418d92e2a6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,22 +23,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Level_1.executor": "Run",
-    "Python.To_Do_List_App.executor": "Run",
-    "Python.action.executor": "Run",
-    "Python.database.executor": "Debug",
-    "Python.main.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Dell/PycharmProjects/School_app_AD",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "two.files.diff.last.used.folder": "C:/Users/Dell/PycharmProjects/School_app_AD"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Level_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.To_Do_List_App.executor&quot;: &quot;Run&quot;,
+    &quot;Python.action.executor&quot;: &quot;Run&quot;,
+    &quot;Python.database.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/PycharmProjects/School_app_AD&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;two.files.diff.last.used.folder&quot;: &quot;C:/Users/Dell/PycharmProjects/School_app_AD&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
